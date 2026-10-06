@@ -19,15 +19,7 @@ The source files were consolidated from the original archives, duplicate copies 
 | `05_Mini_Projects` | Pharmacy POS | `PharmacyPOS.java` | OOP, collections, input, receipt calculation |
 | `06_Hashing_Activity` | Custom MD5 Hasher | `CustomMD5Hasher.java` | Hashing algorithm implementation |
 
-## Notes on Cleanup
 
-- Added `CARL JAYSON ELI BONAOBRA` to every Java source file.
-- Removed duplicate source copies and compiled `.class` files.
-- Removed generated NetBeans build output and private IDE configuration from the cleaned collection.
-- Corrected the broken Exercise 7 source and made element removal produce a correctly sized array.
-- Improved indentation, variable names, comments, and input handling.
-- Preserved the general behavior and learning objective of each original activity.
-- Added a `.gitignore` suitable for a Java/NetBeans repository.
 
 ## Compile and Run
 
